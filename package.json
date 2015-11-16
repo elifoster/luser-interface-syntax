@@ -1,0 +1,29 @@
+{
+  "name": "luser-interface-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": false,
+  "description": "A syntax theme to go along with luser-interface.",
+  "keywords": [
+    "syntax",
+    "user interface",
+    "theme",
+    "dark"
+  ],
+  "homepage": "https://github.com/elifoster/luser-interface-syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elifoster/luser-interface-syntax.git"
+  },
+  "author": {
+    "name": "Eli Clemente Gordillo Foster",
+    "email": "elifosterwy@gmail.com",
+    "url": "http://elifoster.github.io"
+  },
+  "contributors": [
+    {
+      "name": "Milla Angell",
+      "url": "http://yield-to-no-man.tumblr.com"
+    }
+  ]
+}
